@@ -1,4 +1,4 @@
-# Hello, I'm Sahil Kansal 👋
+# Hello, I'm Rashmi Suryavanshi 👋
 
 [![Instagram Follow](https://img.shields.io/badge/Follow%20on%20Instagram-%40itz_sahil_aggarwal-blue)](https://www.instagram.com/itz_sahil_aggarwal)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Sahil%20Kansal-blue)](https://www.linkedin.com/in/sahil-kansal-446739217)
@@ -58,7 +58,7 @@ Learning React and its associated frameworks is essential for keeping up with mo
 Feel free to connect with me on:
 
 - LinkedIn: [Sahil Kansal](https://www.linkedin.com/in/sahil-kansal-446739217)
-- Email: sahilkansal.dev@gmail.com
+- Email: rashmisuryavanshi76@gmail.com
 
 ## 🤝 Let's Connect
 
